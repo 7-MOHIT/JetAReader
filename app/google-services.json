@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875206171168",
+    "project_id": "jetareader-d857a",
+    "storage_bucket": "jetareader-d857a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875206171168:android:4d0eccb980c4285575ba45",
+        "android_client_info": {
+          "package_name": "com.example.jetareader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADBRl-ft5xIt_2nImeugA1LldO167jBsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
